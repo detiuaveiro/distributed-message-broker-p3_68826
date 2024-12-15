@@ -1,0 +1,5 @@
+1. estabelecer a ligação entre 2 brokers
+2. todas as publicações em um broker sejam recebidas por todos os subscribers de ambos os brokers
+3. Criar um mecanismo de relogio de lamport
+4. Garantir que todos os subscritores recebem sempre as mensagens pela mesma hora
+5. Considerar que existem n brokers
